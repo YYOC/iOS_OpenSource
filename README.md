@@ -1,6 +1,6 @@
 # iOS_OpenSource
 iOS开源项目分类汇总
-
+转于：http://blog.csdn.net/arodung/article/details/50846546
 
 Category/Util
  sstoolkit	一套Category类型的库,附带很多自定义控件 功能不错～	 	 	 
@@ -1264,4 +1264,3 @@ App
  RegexKitLite	著名的ObjC 正则表达式	 	 	 
  zipachive	用得很广泛的ObjC zip文件压缩解压 (github上有几个mirror)	 	 	 
 
-转于：AirZilong的博客<link href="http://blog.csdn.net/arodung/article/details/50846546">
